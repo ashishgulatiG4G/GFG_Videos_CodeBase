@@ -42,9 +42,6 @@ public class sortString {
             .collect(Collectors.joining());
         System.out.println("USing stream API: " + sortedStr);
 
-        
-        
-
     }
 }
 
